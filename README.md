@@ -4,7 +4,7 @@
 
 You can download the full theory in PDF format from the link below:
 
-[Download full theory (PDF)](./.pdf)
+[Download full theory as PDF](./Cancer_Mitochondria_Symbiotic_Theory_Licensed.pdf)
 
 ---
 
